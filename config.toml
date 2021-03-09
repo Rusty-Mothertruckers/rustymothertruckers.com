@@ -77,7 +77,7 @@ paginate = 6
   [params.writers]
     [params.writers."Graham Weldon"]
     link = "https://grahamweldon.com"
-    email = "graham@grahamweldon.com"
+    email = "graham+rusty@grahamweldon.com"
     bio = [
       "Graham is a Principle DevOps Engineer professionally, and engages in Game Development as a hobby. He's released <a href='https://store.steampowered.com/app/553610/ArsonVille/' target='_blank'>ArsonVille</a> on Steam!"
     ]
