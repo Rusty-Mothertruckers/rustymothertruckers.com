@@ -1,5 +1,5 @@
-# baseURL = "https://rustymothertruckers.com/"
-baseURL = ""
+baseURL = "https://rustymothertruckers.com/"
+# baseURL = ""
 languageCode = "en"
 title = "Rusty Mothertruckers"
 theme = "hugo-nederburg-theme"
