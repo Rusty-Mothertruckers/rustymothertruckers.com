@@ -109,7 +109,7 @@ paginate = 6
 
     [params.writers."Dan"]
     # link = "https://appernetic.io/"
-    # email = "goran@molnsys.com"
+    email = "rustydantrucker@gmail.com"
     bio = [
       "Dan is Dan. That's all you need to know."
     ]
