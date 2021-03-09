@@ -4,7 +4,7 @@ draft = false
 image = "img/post/RustyPoints02-656.png"
 date = "2021-03-09T00:00:00+09:00"
 title = "The Rusty Mothertruckers Game Jam #1"
-writer = "Jase"
+writer = "Dan Wright"
 categories = [ "events", "gamedev" ]
 +++
 
