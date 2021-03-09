@@ -1,0 +1,9 @@
+:{{cfg.http.port}}
+root {{pkg.path}}/public
+{{#if cfg.gzip.enabled ~}}
+gzip
+{{/if ~}}
+log / stdout "{combined}"
+errors {
+  404 /404.html
+}
