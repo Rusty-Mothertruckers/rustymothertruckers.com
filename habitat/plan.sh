@@ -1,6 +1,6 @@
-pkg_name=rustymothertruckers.com
+pkg_name=site-rustymothertruckers
 pkg_origin=grahamweldon
-pkg_version="0.1.0"
+pkg_version=2021.03.09.0
 pkg_maintainer="Graham Weldon <graham@grahamweldon.com>"
 pkg_license=("Apache-2.0")
 pkg_description="Website for rustymothertruckers.com"
@@ -36,7 +36,7 @@ do_build() {
   pushd "themes/${theme_name}" > /dev/null
   npm install
   fix_interpreter "node_modules/.bin/*" core/coreutils bin/env
-  npm run-script build
+  # npm run-script build
   popd > /dev/null
 
   # Build site
@@ -44,6 +44,12 @@ do_build() {
   hugo \
     --ignoreCache \
     --verbose
+  popd > /dev/null
+}
+
+do_install() {
+  pushd "${app_prefix}" > /dev/null
+  cp -r public "${pkg_prefix}/"
   popd > /dev/null
 }
 

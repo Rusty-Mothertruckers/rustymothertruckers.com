@@ -177,6 +177,14 @@ title="pinterest icon"></i>
 </a>
 {{end}}
 
+{{ with $writer.twitch }}
+<a class="twitch" target="_blank"
+href="{{ . }}">
+<i class="fab fa-twitch"
+title="twitch icon"></i>
+</a>
+{{end}}
+
 
 {{ else }}
 {{ with .Site.Params.social.facebook }}

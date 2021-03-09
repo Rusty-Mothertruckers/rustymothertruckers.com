@@ -1,5 +1,5 @@
 # baseURL = "https://rustymothertruckers.com/"
-baseURL = "http://10.0.1.113:1313/"
+baseURL = ""
 languageCode = "en"
 title = "Rusty Mothertruckers"
 theme = "hugo-nederburg-theme"
@@ -51,15 +51,14 @@ paginate = 6
   weight = 2
 
   [[menu.main]]
-  name = "Get in touch"
-  url = "contact/"
+  name = "Streams"
+  url = "streams/"
   weight = 3
 
-  [[menu.secondary]]
-  name = "Home"
-  url = "/"
-  weight = 1
-
+  [[menu.main]]
+  name = "Get in touch"
+  url = "contact/"
+  weight = 4
 
 # this will also be in author bio if there is no writer.
   [params.social]
@@ -80,7 +79,7 @@ paginate = 6
     link = "https://grahamweldon.com"
     email = "graham@grahamweldon.com"
     bio = [
-      "Graham is a Principle DevOps Engineer professionally, and engages in Game Development as a hobby."
+      "Graham is a Principle DevOps Engineer professionally, and engages in Game Development as a hobby. He's released <a href='https://store.steampowered.com/app/553610/ArsonVille/' target='_blank'>ArsonVille</a> on Steam!"
     ]
     # facebook      = "full lukas profile url in facebook"
     # googleplus    = "full profile url in googleplus"
@@ -90,18 +89,35 @@ paginate = 6
     # instagram     = "full profile url in instagram"
     github        = "https://github.com/predominant"
     # pinterest     = "full profile url in pinterest"
+    twitch        = "https://twitch.tv/grahamweldon"
 
-    [params.writers."Dan Wright"]
-    link = "https://appernetic.io/"
-    email = "goran@molnsys.com"
+    [params.writers."Jase"]
+    # link = "https://grahamweldon.com"
+    email = "rustyjase@gmail.com"
     bio = [
-      "Göran is an avid blogger and the founder of <a href='https://appernetic.io/'>Appernetic.io</a>. This is the author bio shown after posts."
+      "Jase is Jase. That's all you need to know."
     ]
-    facebook      = "full Göran profile url in facebook"
-    googleplus    = "full profile url in googleplus"
-    twitter       = "full profile url in twitter"
-    linkedin      = "full profile url in linkedin"
-    stackoverflow = "full profile url in stackoverflow"
-    instagram     = "full profile url in instagram"
-    github        = "full profile url in github"
-    pinterest     = "full profile url in pinterest"
+    # facebook      = "full lukas profile url in facebook"
+    # googleplus    = "full profile url in googleplus"
+    # twitter       = "https://twitter.com/predominant"
+    # linkedin      = "full profile url in linkedin"
+    # stackoverflow = "full profile url in stackoverflow"
+    # instagram     = "full profile url in instagram"
+    # github        = "https://github.com/predominant"
+    # pinterest     = "full profile url in pinterest"
+    twitch        = "https://twitch.tv/vereoraus"
+
+    [params.writers."Dan"]
+    # link = "https://appernetic.io/"
+    # email = "goran@molnsys.com"
+    bio = [
+      "Dan is Dan. That's all you need to know."
+    ]
+    # facebook      = "full Göran profile url in facebook"
+    # googleplus    = "full profile url in googleplus"
+    # twitter       = "full profile url in twitter"
+    # linkedin      = "full profile url in linkedin"
+    # stackoverflow = "full profile url in stackoverflow"
+    # instagram     = "full profile url in instagram"
+    # github        = "full profile url in github"
+    # pinterest     = "full profile url in pinterest"
