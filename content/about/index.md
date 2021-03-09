@@ -4,4 +4,3 @@ title = "About the Mothertruckers"
 type = "about"
 +++
 
-Placeholder page for About Us page for the Mothertruckers.

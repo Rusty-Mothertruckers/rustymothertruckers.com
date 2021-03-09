@@ -1,23 +1,31 @@
 {{ define "body" }}
-
 <body class="page-template-default page ct-body singular singular-page not-front standard">
 {{ end }}
-  {{ define "main" }}
-  <div id="main" class="main" role="main">
 
-  	<div id="loop-container" class="loop-container">
-  		<div class="entry">
-  		<div class="entry-header">
-  		<h1 class="entry-title">{{ .Title }}</h1>
-  	</div>
-  	<div class="entry-container">
-  		<div class="entry-content">
-  			<article>
-				{{ .Content }}
-        </article>
-  		</div>
-  			</div>
-  </div>	</div>
-
+{{ define "main" }}
+<div id="main" class="main" role="main">
+  <div id="loop-container" class="loop-container">
+    <div class="entry">
+      <div class="entry-header">
+        <h1 class="entry-title">{{ .Title }}</h1>
+      </div>
+      <div class="entry-container">
+        <div class="entry-content">
+          <article>{{ .Content }}</article>
+        </div>
+      </div>
+      {{ range $name, $writer := .Site.Params.writers }}
+      <div class="author">
+        <img alt='{{ . }}' src="https://www.gravatar.com/avatar/{{ md5 .email }}?s=100&d=identicon" class='avatar avatar-72 photo' height='72' width='72'>
+        <span>{{ $name |  }}</span>
+      </div>
+      <div class="bio">
+        {{ range .bio  }}
+        <p>{{ . | safeHTML }}</p>
+        {{ end }}
+      </div>
+      {{ end }}
+    </div>
   </div>
-  {{ end }}
+</div>
+{{ end }}
