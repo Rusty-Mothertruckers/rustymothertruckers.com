@@ -107,15 +107,15 @@ paginate = 6
     # pinterest     = "full profile url in pinterest"
     twitch        = "https://twitch.tv/vereoraus"
 
-    [params.writers."Dan"]
+    [params.writers."Dan Wright"]
     # link = "https://appernetic.io/"
     email = "rustydantrucker@gmail.com"
     bio = [
-      "Dan is Dan. That's all you need to know."
+      "Dan is a digital strategy and project manager for money, and a smartarse as a hobby. He engages in Game Development in moments of poor decision making."
     ]
     # facebook      = "full Göran profile url in facebook"
     # googleplus    = "full profile url in googleplus"
-    # twitter       = "full profile url in twitter"
+    twitter       = "https://twitter.com/danwofficial"
     # linkedin      = "full profile url in linkedin"
     # stackoverflow = "full profile url in stackoverflow"
     # instagram     = "full profile url in instagram"
