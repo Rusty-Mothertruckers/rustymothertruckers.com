@@ -42,3 +42,43 @@ Again, depending on the exact number of themes included in this round we will ei
 This round will contain the **one poll run multiple times** through the evening with the results of each time being collated to produce the final result.
 
 Once the result has been determined, the theme for the Rusty Mothertruckers Game Jam will be announced and the team will get started on brainstorming ideas and jamming the game.
+
+## List of current theme ideas
+
+These ideas are the themes currently on the longlist that will be used as the basis for the first round of voting next week, Friday 19 March 2021. Not all themes on this list will necessarily be included in the voting, but this list is provided in the interests of transparency, and to limit the potential for duplicate submissions.
+
+1. Corruption
+2. It's Spreading
+3. Two Worlds
+4. Strength in Numbers
+5. Generation
+6. Moving Fortress
+7. Shapeshift
+8. Momentum
+9. Unknown Language
+10. Tiny World
+11. Swarms
+12. Stellar journey
+13. How to destroy the internet
+14. Companion
+15. Horror of the early 2000's
+16. Jased
+17. Transportation
+18. Under Pressure
+19. I want to live forever
+20. Shaved Apes
+21. Cannibalism
+22. Delusions of Adequacy
+23. Feet
+24. Crunch
+25. SETI
+26. Restoration
+27. Stolen Artifacts
+28. ______ Architect
+29. Pyramid Scheme
+30. Vault
+31. "Unskilled" Labour
+32. Dreams
+33. Nemesis
+34. Trickle Down Effect
+35. ADHD
