@@ -45,7 +45,7 @@ Once the result has been determined, the theme for the Rusty Mothertruckers Game
 
 ## List of current theme ideas
 
-These ideas are the themes currently on the longlist that will be used as the basis for the first round of voting next week, Friday 19 March 2021. Not all themes on this list will necessarily be included in the voting, but this list is provided in the interests of transparency, and to limit the potential for duplicate submissions.
+These ideas are the themes currently on the longlist that will be used as the basis for the first round of voting next week, Friday 19 March 2021. Not all themes on this list will necessarily be included in the voting, but this list is provided in the interests of transparency, and to limit the potential for duplicate submissions. In no particular order:
 
 1. Corruption
 2. It's Spreading
@@ -82,4 +82,5 @@ These ideas are the themes currently on the longlist that will be used as the ba
 33. Nemesis
 34. Trickle Down Effect
 35. ADHD
-36. Pickled
+36. Raised
+37. Pickled
