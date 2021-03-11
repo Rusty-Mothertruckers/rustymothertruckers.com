@@ -5,7 +5,7 @@ image = "img/post/Rusty Austin Abandoned in Australia.jpg"
 date = "2021-03-09T00:00:00+09:00"
 title = "Game Jam Theme Voting and Selection"
 writer = "Dan Wright"
-categories = [ "gamedev", "game jam", "voting" ]
+categories = [ "gamedev", "game jam", "voting", "themes" ]
 weight = 1
 +++
 
