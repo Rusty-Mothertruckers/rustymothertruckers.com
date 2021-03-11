@@ -3,6 +3,7 @@ date = "2021-03-09T00:00:00+09:00"
 title = "About the Mothertruckers"
 type = "about"
 +++
+
 ![Rusty Abandonment Issues](static/img/post/Rusty Abandonment Issues.jpg)
 
 #A brief history of the Rusty Mothertruckers#
@@ -17,15 +18,15 @@ Not known for exercising the best judgement, the team have now decided to set th
 
 They'll be [live streaming their progress](https://rustymothertruckers.com/streams/) along the way, and there'll be plenty of activity and shenanigans to follow. Guest collaborators will join them for parts of the weekend, and of course there will be breaks to enjoy some gaming downtime. So please join the **Rusty Mothertruckers** as they prepare to get rusty.
 
-##About Graham##
+## About Graham
 
 Graham is a Principle DevOps Engineer professionally, and engages in Game Development as a hobby.
 
-##About Jase##
+## About Jase
 
 Jase is a Lead Software Engineer in a mid-stage startup, and engages in Game Development when he's not being abused by the team.
 
-##About Dan##
+## About Dan
 
 Dan is a digital strategy and project manager for money, and a smartarse as a hobby. He engages in Game Development in moments of poor decision making.
 
