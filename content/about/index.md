@@ -6,7 +6,7 @@ type = "about"
 
 ![Rusty Abandonment Issues](static/img/post/Rusty Abandonment Issues.jpg)
 
-#A brief history of the Rusty Mothertruckers#
+# A brief history of the Rusty Mothertruckers
 
 The **Rusty Mothertruckers** have been gaming together for over a decade in one form or another. Friendships primarily formed online, began over a love of not just gaming, but also game development.
 
@@ -30,6 +30,6 @@ Jase is a Lead Software Engineer in a mid-stage startup, and engages in Game Dev
 
 Dan is a digital strategy and project manager for money, and a smartarse as a hobby. He engages in Game Development in moments of poor decision making.
 
-##About Our Guests##
+## About Our Guests
 
 We will be joined by guests over the course of the Game Jam weekend to help with all manner of things from design and object creation, through to audio production, and generally just to keep things fun and interesting. More details will be revealed closer to the event.
