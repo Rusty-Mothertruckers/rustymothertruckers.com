@@ -19,6 +19,6 @@ Prior to the Game Jam we will be hosting three rounds of voting on our main chan
 
 Round 3 of the voting will take place during the regular Rusty Mothertruckers Friday Night game streaming session. The gaming portion of the stream will end a little earlier than usual as the result of the final vote is revealed. The Rusty Mothertruckers will then transition into Game Jam mode and begin brainstorming ideas.
 
-[More details on the theme voting are available over here](https://rustymothertruckers.com/post/20210309-themes-polls-and-voting.md), and as always, if you have any questions for the Rusty Mothertruckers feel free to ask us in chat.
+[More details on the theme voting are available over here](https://rustymothertruckers.com/post/20210309-themes-polls-and-voting), and as always, if you have any questions for the Rusty Mothertruckers feel free to ask us in chat.
 
 Thanks for reading, and as always, "Fuck you Jase"
