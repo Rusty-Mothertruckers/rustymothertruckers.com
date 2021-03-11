@@ -2,9 +2,11 @@
 date = "2021-03-09T00:00:00+09:00"
 title = "About the Mothertruckers"
 type = "about"
+image = "img/post/Rusty Abandonment Issues.jpg"
+writer = "Dan Wright"
+categories = [ "about" , "events" , "gamedev" ]
 +++
 
-![Rusty Abandonment Issues](static/img/post/Rusty Abandonment Issues.jpg)
 
 # A brief history of the Rusty Mothertruckers
 
