@@ -7,9 +7,6 @@ writer = "Dan Wright"
 categories = [ "about" , "events" , "gamedev" ]
 +++
 
-
-# A brief history of the Rusty Mothertruckers
-
 The **Rusty Mothertruckers** have been gaming together for over a decade in one form or another. Friendships primarily formed online, began over a love of not just gaming, but also game development.
 
 Graham, Jase, and John have all collaborated over the years on different projects, and first came to know each other through sharing tips and advice on gamedev forums. While Dan came later, his enthusiasm for games and game development fit well with the crew and he quickly found himself contributing to various projects where possible.
