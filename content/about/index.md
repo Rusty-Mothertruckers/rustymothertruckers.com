@@ -4,7 +4,7 @@ title = "About the Mothertruckers"
 # type = "about"
 image = "img/post/Rusty Abandonment Issues.jpg"
 writer = "Dan Wright"
-categories = [ "events" , "gamedev" ]
+categories = [  ]
 +++
 
 The **Rusty Mothertruckers** have been gaming together for over a decade in one form or another. Friendships primarily formed online, began over a love of not just gaming, but also game development.
