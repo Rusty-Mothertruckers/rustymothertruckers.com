@@ -90,3 +90,6 @@ These ideas are the themes currently on the longlist that will be used as the ba
 41. Impulse
 42. Memory
 43. Against all odds
+44. Dragons with wings
+45. Dragons without wings
+46. Unicorns
