@@ -43,9 +43,9 @@ This round will contain the **one poll run multiple times** through the evening 
 
 Once the result has been determined, the theme for the Rusty Mothertruckers Game Jam will be announced and the team will get started on brainstorming ideas and jamming the game.
 
-## List of current theme ideas
+## Submissions for Theme Ideas now Closed
 
-These ideas are the themes currently on the longlist that will be used as the basis for the first round of voting next week, Friday 19 March 2021. Not all themes on this list will necessarily be included in the voting, but this list is provided in the interests of transparency, and to limit the potential for duplicate submissions. In no particular order:
+Our longlist of themes has been set and we will commence voting this Friday 19 March 2021! There will be a [series of polls run on Twitch during the night](https://www.twitch.tv/grahamweldon) with viewers having the opportunity to vote in each poll. The top result from each poll will make it through to the next round. Here is the list of themes, which will be grouped randomly for voting:
 
 1. Corruption
 2. It's Spreading
