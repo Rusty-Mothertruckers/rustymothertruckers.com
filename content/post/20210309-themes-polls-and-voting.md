@@ -31,6 +31,21 @@ The winning theme of each poll will be added to the longlist that will form the 
 
 (We do reserve the right to conduct additional voting off-stream if we deem it necessary in order to get the number of themes down to a suitable number)
 
+## Round 1 of voting has concluded
+
+Results are in! There were some great tactics employed by various voters making use of channel points and bits to ensure favourite themes made it through to the next round. Join us next week to vote on the following theme options:
+
+1. Two Worlds
+2. Jased
+3. Under Pressure
+4. Stellar journey
+5. Dragons without wings
+6. Unbridled Darkness
+7. Unknown Language
+8. Shaved Apes
+9. "Unskilled" Labour
+10. Unicorns
+
 ## Round 2 - Friday 26 March 2021
 
 This round will contain multiple polls (the exact number to be determined by how many themes are carried over from Round 1) following the same format as Round 1. 
