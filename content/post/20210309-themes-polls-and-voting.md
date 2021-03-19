@@ -62,49 +62,49 @@ Once the result has been determined, the theme for the Rusty Mothertruckers Game
 
 Our longlist of themes has been set and we will commence voting this Friday 19 March 2021! There will be a [series of polls run on Twitch during the night](https://www.twitch.tv/grahamweldon) with viewers having the opportunity to vote in each poll. The top result from each poll will make it through to the next round. Here is the list of themes, which will be grouped randomly for voting:
 
-~~1. Corruption~~
-~~2. It's Spreading~~
+1. ~~Corruption~~
+2. ~~It's Spreading~~
 3. Two Worlds
-~~4. Strength in Numbers~~
-~~5. Generation~~
-~~6. Moving Fortress~~
-~~7. Shapeshift~~
-~~8. Momentum~~
+4. ~~Strength in Numbers~~
+5. ~~Generation~~
+6. ~~Moving Fortress~~
+7. ~~Shapeshift~~
+8. ~~Momentum~~
 9. Unknown Language
-~~10. Tiny World~~
-~~11. Swarms~~
+10. ~~Tiny World~~
+11. ~~Swarms~~
 12. Stellar journey
-~~13. How to destroy the internet~~
-~~14. Companion~~
-~~15. Horror of the early 2000's~~
+13. ~~How to destroy the internet~~
+14. ~~Companion~~
+15. ~~Horror of the early 2000's~~
 16. Jased
-~~17. Transportation~~
+17. ~~Transportation~~
 18. Under Pressure
-~~19. I want to live forever~~
+19. ~~I want to live forever~~
 20. Shaved Apes
-~~21. Cannibalism~~
-~~22. Delusions of Adequacy~~
-~~23. Feet~~
-~~24. Crunch~~
-~~25. SETI~~
-~~26. Restoration~~
-~~27. Stolen Artifacts~~
-~~28. ______ Architect~~
-~~29. Pyramid Scheme~~
-~~30. Vault~~
+21. ~~Cannibalism~~
+22. ~~Delusions of Adequacy~~
+23. ~~Feet~~
+24. ~~Crunch~~
+25. ~~SETI~~
+26. ~~Restoration~~
+27. ~~Stolen Artifacts~~
+28. ~~______ Architect~~
+29. ~~Pyramid Scheme~~
+30. ~~Vault~~
 31. "Unskilled" Labour
-~~32. Dreams~~
-~~33. Nemesis~~
-~~34. Trickle Down Effect~~
-~~35. ADHD~~
-~~36. Raised~~
-~~37. Pickled~~
+32. ~~Dreams~~
+33. ~~Nemesis~~
+34. ~~Trickle Down Effect~~
+35. ~~ADHD~~
+36. ~~Raised~~
+37. ~~Pickled~~
 38. Unbridled Darkness
-~~39. Time travel~~
-~~40. Focus~~
-~~41. Impulse~~
-~~42. Memory~~
-~~43. Against all odds~~
-~~44. Dragons with wings~~
+39. ~~Time travel~~
+40. ~~Focus~~
+41. ~~Impulse~~
+42. ~~Memory~~
+43. ~~Against all odds~~
+44. ~~Dragons with wings~~
 45. Dragons without wings
 46. Unicorns
