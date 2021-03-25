@@ -40,19 +40,14 @@ Without further ado...
 
 ## Round 2 Theme Matchups
 
-Shaved Apes
-Unknown Language
+Shaved Apes vs Unknown Language
 
-Two Worlds
-Stellar Journey
+Two Worlds vs Stellar Journey
 
-Under Pressure
-Jased
+Under Pressure vs Jased
 
-"Unskilled" Labour
-Unbridled Darkness
+"Unskilled" Labour vs Unbridled Darkness
 
-Dragons Without Wings
-Unicorns
+Dragons Without Wings vs Unicorns
 
 We look forward to [seeing you on stream on Friday](https://www.twitch.tv/grahamweldon). Happy voting!
