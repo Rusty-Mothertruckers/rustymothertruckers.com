@@ -2,7 +2,7 @@
 showonlyimage = true
 draft = false
 image = "img/post/Rusty Fruit Stand Truck.jpg"
-date = "2021-03-09T00:00:00+09:00"
+date = "2021-03-27T00:00:00+09:00"
 title = "Game Jam Theme Voting and Selection"
 writer = "Dan Wright"
 categories = [ "gamedev", "game jam", "voting", "themes" ]
