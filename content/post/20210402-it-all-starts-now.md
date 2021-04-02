@@ -2,7 +2,7 @@
 showonlyimage = true
 draft = false
 image = "img/post/Rusty Mothertrucking Face.jpg"
-date = "2021-03-09T00:00:00+09:00"
+date = "2021-04-02T00:00:00+09:00"
 title = "It all starts now!"
 writer = "Dan Wright"
 categories = [ "gamedev", "game jam", "voting", "themes" ]
