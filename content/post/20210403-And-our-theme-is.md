@@ -49,7 +49,7 @@ __Round 4__
 
 ## Total Vote Tally
 
-__1. Unknown Language - 8 Votes__
+1. __Unknown Language - 8 Votes__
 2. Stellar Journey - 7 Votes
 3. Unbridled Darkness - 5 Votes
 4. Unicorns - 5 Votes
