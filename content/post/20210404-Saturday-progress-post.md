@@ -31,11 +31,11 @@ Graham and Jase got quickly to work on setting up basic interactions and element
 
 ![Graham's player movement](/img/post/Player-Movement-Animation.gif)
 
-![Basic streetscape](img/post/Street-Design-Saturday.png)
+![Basic streetscape](/img/post/Street-Design-Saturday.png)
 
 Emurga jumped straight into character design and asset development. 
 
-![Emurga's initial character model](img/post/Character-Saturday.PNG)
+![Emurga's initial character model](/img/post/Character-Saturday.PNG)
 
 While all this was going on, Dan worked on mapping out a plot outline and writing some basic intros and interstitial scenes for in-game progress.
 
