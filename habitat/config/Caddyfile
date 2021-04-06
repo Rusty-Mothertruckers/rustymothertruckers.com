@@ -1,7 +1,9 @@
 :{{cfg.http.port}}
 root {{pkg.path}}/public
 {{#if cfg.gzip.enabled ~}}
-gzip
+gzip {
+  ext *
+}
 {{/if ~}}
 log / stdout "{combined}"
 errors {
