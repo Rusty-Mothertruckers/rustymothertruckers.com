@@ -1,0 +1,16 @@
+{{ $path := .Get "path" }}
+{{ $name := .Get "name" }}
+{{ $buildPath := printf "%s/Build/%s" $path $name }}
+{{ $companyName := .Get "companyName" }}
+{{ $productName := .Get "productName" }}
+{{ $productVersion := .Get "productVersion" }}
+{{ $data := dict "dataUrl" (printf "%s.data.unityweb" $buildPath) "frameworkUrl" (printf "%s.framework.js.unityweb" $buildPath) "codeUrl" (printf "%s.wasm.unityweb" $buildPath) "streamingAssetsUrl" "StreamingAssets" "companyName" $companyName "productName" $productName "productVersion" $productVersion }}
+{{ $jsonData := safeJS (jsonify $data) }}
+<!-- <pre>{{ $data | jsonify }}</pre> -->
+<div class="shortcode shortcode--unity-webgl">
+    <canvas id="unity-canvas" style="width: 1280px; height: 720px; background: #231F20"></canvas>
+    <script src="{{ htmlUnescape $buildPath }}.loader.js"></script>
+    <script>
+        createUnityInstance(document.querySelector("#unity-canvas"), {{ $jsonData }});
+    </script>
+</div>
