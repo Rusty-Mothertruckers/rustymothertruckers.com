@@ -2,7 +2,7 @@
 showonlyimage = true
 draft = false
 image = "img/post/Rusty Cab.jpg"
-date = "2021-04-05T00:00:00+09:00"
+date = "2021-04-05T00:00:00+00:00"
 title = "Sunday progress post"
 writer = "Dan Wright"
 categories = [ "gamedev", "game jam", "wip", "update" ]
