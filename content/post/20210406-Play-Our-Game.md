@@ -5,7 +5,7 @@ image = "img/post/Rusty Truck Fargo.jpg"
 date = "2021-04-06T21:00:00+09:00"
 title = "Play our Game"
 writer = "Dan Wright"
-categories = [ "gamedev", "game jam", "wip", "update" ]
+categories = [ "gamedev", "game jam", "game", "update" ]
 weight = 1
 +++
 
